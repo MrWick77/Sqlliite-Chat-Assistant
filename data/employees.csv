@@ -1,0 +1,116 @@
+id,first_name,last_name,department,salary,hire_date,is_manager
+1,Linda,Jones,Sales,97790,2019-08-30,Yes
+2,Daniel,Williams,Engineering,133842,2021-03-08,Yes
+3,Linda,Miller,Marketing,112892,2021-05-14,Yes
+4,Elizabeth,Anderson,Human Resources,101060,2020-01-27,Yes
+5,Christopher,Jones,Finance,94917,2019-05-24,Yes
+6,Jessica,Wilson,Operations,105608,2021-10-15,Yes
+7,Christopher,Williams,Customer Support,115223,2019-02-14,Yes
+8,John,Garcia,Research,137457,2020-09-25,Yes
+9,Richard,Garcia,Legal,119865,2020-02-23,Yes
+10,Margaret,Garcia,Product Management,96892,2019-06-27,Yes
+11,Nancy,Smith,Sales,61663,2020-05-01,No
+12,Daniel,Thomas,Sales,78091,2021-02-01,No
+13,Christopher,Smith,Sales,61747,2021-03-22,No
+14,Susan,Johnson,Sales,79239,2021-08-22,No
+15,Richard,Miller,Sales,76028,2020-02-04,No
+16,Patricia,Brown,Sales,59061,2021-06-10,No
+17,Patricia,Lopez,Sales,61576,2021-06-20,No
+18,Mary,Thomas,Sales,64310,2022-10-10,No
+19,William,Rodriguez,Sales,56151,2020-08-20,No
+20,Daniel,Williams,Sales,55324,2022-07-08,No
+21,Jennifer,Williams,Sales,70705,2021-08-22,No
+22,Jessica,Thomas,Sales,65182,2022-03-21,No
+23,Richard,Johnson,Sales,79564,2021-12-05,No
+24,Jennifer,Hernandez,Sales,61598,2020-06-26,No
+25,David,Rodriguez,Sales,57999,2021-07-08,No
+26,Thomas,Garcia,Engineering,71273,2020-04-12,No
+27,Nancy,Williams,Engineering,104764,2022-04-03,No
+28,Elizabeth,Garcia,Engineering,116718,2022-03-20,No
+29,Patricia,Gonzalez,Engineering,87163,2020-10-15,No
+30,Susan,Martinez,Engineering,103782,2022-03-31,No
+31,James,Wilson,Engineering,83750,2022-04-22,No
+32,Jennifer,Martinez,Engineering,113348,2020-07-08,No
+33,Jennifer,Williams,Marketing,74939,2021-04-10,No
+34,Michael,Martinez,Marketing,70200,2022-04-30,No
+35,Daniel,Hernandez,Marketing,57143,2022-01-11,No
+36,Susan,Anderson,Marketing,73784,2021-02-26,No
+37,Richard,Taylor,Marketing,53598,2020-11-26,No
+38,John,Davis,Marketing,53271,2021-11-10,No
+39,Jessica,Smith,Marketing,75120,2021-12-17,No
+40,Daniel,Williams,Marketing,68300,2021-10-01,No
+41,Lisa,Smith,Marketing,60628,2020-12-09,No
+42,James,Anderson,Human Resources,52163,2022-12-09,No
+43,James,Williams,Human Resources,57909,2021-10-03,No
+44,Linda,Garcia,Human Resources,64282,2021-03-22,No
+45,James,Rodriguez,Human Resources,80983,2020-05-08,No
+46,Michael,Johnson,Human Resources,82771,2022-06-21,No
+47,William,Jones,Human Resources,73599,2022-01-16,No
+48,Susan,Williams,Human Resources,66833,2021-02-07,No
+49,James,Martinez,Human Resources,66028,2020-12-24,No
+50,David,Anderson,Human Resources,83483,2021-07-07,No
+51,Barbara,Wilson,Human Resources,57998,2020-08-13,No
+52,William,Wilson,Human Resources,55880,2022-01-14,No
+53,Richard,Jones,Human Resources,48381,2022-06-10,No
+54,John,Johnson,Finance,86626,2021-09-12,No
+55,Linda,Brown,Finance,61633,2020-07-27,No
+56,Barbara,Davis,Finance,89357,2022-05-21,No
+57,Jessica,Davis,Finance,56745,2022-05-26,No
+58,Christopher,Garcia,Finance,66549,2020-01-01,No
+59,Mary,Martinez,Finance,72045,2022-09-19,No
+60,Susan,Davis,Finance,86672,2020-10-02,No
+61,Linda,Rodriguez,Finance,83083,2020-09-01,No
+62,Patricia,Garcia,Finance,66831,2020-08-28,No
+63,Joseph,Thomas,Finance,93344,2022-04-11,No
+64,Richard,Johnson,Finance,57865,2022-03-14,No
+65,Barbara,Gonzalez,Finance,67748,2020-08-06,No
+66,Susan,Smith,Finance,88013,2020-01-24,No
+67,Charles,Martinez,Finance,90784,2021-10-14,No
+68,Joseph,Anderson,Operations,73915,2021-02-18,No
+69,John,Lopez,Operations,40814,2021-02-20,No
+70,Susan,Smith,Operations,74642,2020-03-25,No
+71,Linda,Hernandez,Operations,79594,2020-11-24,No
+72,Margaret,Thomas,Operations,49740,2021-11-19,No
+73,Christopher,Wilson,Operations,40600,2020-06-01,No
+74,Nancy,Lopez,Operations,65787,2022-04-01,No
+75,Michael,Gonzalez,Operations,57893,2020-08-18,No
+76,Barbara,Rodriguez,Operations,43683,2022-11-21,No
+77,James,Johnson,Operations,40386,2022-11-01,No
+78,Patricia,Martinez,Operations,51496,2021-06-02,No
+79,Michael,Johnson,Customer Support,64414,2021-11-13,No
+80,John,Taylor,Customer Support,41224,2021-10-04,No
+81,Patricia,Rodriguez,Customer Support,59169,2020-02-25,No
+82,David,Garcia,Customer Support,43919,2021-04-03,No
+83,Joseph,Wilson,Customer Support,45544,2022-10-16,No
+84,Barbara,Thomas,Customer Support,51704,2022-03-08,No
+85,Elizabeth,Taylor,Customer Support,64702,2021-01-07,No
+86,Elizabeth,Gonzalez,Customer Support,56459,2020-07-08,No
+87,Patricia,Lopez,Customer Support,67011,2021-04-13,No
+88,Robert,Rodriguez,Customer Support,37313,2022-07-18,No
+89,Patricia,Anderson,Customer Support,68153,2020-06-25,No
+90,James,Gonzalez,Customer Support,62511,2022-01-17,No
+91,Richard,Davis,Research,108897,2021-04-25,No
+92,Linda,Smith,Research,74399,2022-05-17,No
+93,Barbara,Anderson,Research,72888,2021-12-27,No
+94,Mary,Jones,Research,75522,2021-06-15,No
+95,Barbara,Rodriguez,Research,60966,2021-11-05,No
+96,Nancy,Brown,Legal,65205,2022-07-07,No
+97,Robert,Taylor,Legal,96600,2021-04-21,No
+98,Linda,Wilson,Legal,69640,2021-03-09,No
+99,Sarah,Davis,Legal,106531,2022-08-02,No
+100,James,Davis,Legal,72712,2020-08-20,No
+101,Linda,Williams,Legal,108514,2020-07-25,No
+102,Robert,Wilson,Legal,68092,2022-07-24,No
+103,David,Thomas,Legal,85425,2022-06-14,No
+104,Charles,Wilson,Legal,88135,2022-08-08,No
+105,Mary,Gonzalez,Legal,114827,2022-06-12,No
+106,Robert,Rodriguez,Legal,87709,2022-01-31,No
+107,Sarah,Smith,Product Management,72271,2021-09-03,No
+108,Joseph,Garcia,Product Management,94805,2021-01-09,No
+109,Sarah,Miller,Product Management,96302,2021-06-02,No
+110,Charles,Williams,Product Management,80925,2022-10-19,No
+111,Robert,Lopez,Product Management,92842,2022-04-13,No
+112,Thomas,Smith,Product Management,76675,2021-05-30,No
+113,Christopher,Gonzalez,Product Management,92863,2020-11-13,No
+114,James,Gonzalez,Product Management,63679,2022-08-25,No
+115,Elizabeth,Hernandez,Product Management,89516,2022-01-13,No
